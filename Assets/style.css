@@ -26,10 +26,13 @@ textarea {
 
 .time-block {
   border-radius: 17px;
+  text-align: left;
 }
 
 .row {
   border-top: 1px solid white;
+  border-top: 1px solid;
+  height: 80px;
 }
 
 .hour {
