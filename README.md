@@ -9,7 +9,6 @@ A simple calendar application that allows a user to save events for each hour of
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-```
 
 ## Acceptance Criteria
 
@@ -28,11 +27,16 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+
 ## App Mock-Up
+
+```md
 ![This is a mock-up of the live Application](./Assets/images/mod5mockup.webm)
+
 
 ## Live App Link
 * Click this [link](https://arnasia.github.io/workday-scheduler/) to access the Plan Your Day website live.
+
 
 ## Contact Info
 If you would like to contact me you can reach me at[arnasial.jackson@gmail.com](arnasial.jackson@gmail.com).
